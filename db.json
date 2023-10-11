@@ -1,14 +1,18 @@
 {
-  "snow": [
-    { "pcode": "P12345" },
-    { "Protocol": "UDP/TCP" },
-    { "ZONE": "Zone 1" },
-    { "Port": "8443" }
-  ],
-  "gso": [
-    { "pcode": "P12345" },
-    { "Protocol": "UDP/TCP" },
-    { "ZONE": "Zone 1" },
-    { "Port": "8443" }
-  ]
+    "snow": [
+        {
+            "pcode": "P12345",
+            "Protocol": "UDP/TCP",
+            "ZONE": "Zone 1",
+            "Port": "8443"
+        }
+    ],
+    "gso": [
+        {
+            "pcode": "P12345",
+            "Protocol": "UDP/TCP",
+            "ZONE": "Zone 1",
+            "Port": "8443"
+        }
+    ]
 }
