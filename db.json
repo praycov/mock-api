@@ -1,18 +1,18 @@
-[    
-  "snow": [
+{
+    "snow": [
         {
             "pcode": "P12345",
             "Protocol": "UDP/TCP",
             "ZONE": "Zone 1",
             "Port": "8443"
         }
-  ],
-  "gso": [
+    ],
+    "gso": [
         {
             "pcode": "P12345",
             "Protocol": "UDP/TCP",
             "ZONE": "Zone 1",
             "Port": "8443"
         }
-  ]
-]
+    ]
+}
