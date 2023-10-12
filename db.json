@@ -6,15 +6,29 @@
             "protocol": "UDP/TCP",
             "zone": "Zone 1",
             "port": "8443"
+        },
+        {
+            "sollnetid": "2",
+            "pcode": "P54321",
+            "protocol": "UDP/TCP",
+            "zone": "Zone 3",
+            "port": "1443"
         }
     ],
     "gso": [
         {
             "sollnetid": "1",
+            "pcode": "P12345",
+            "protocol": "UDP/TCP",
+            "zone": "Zone 2",
+            "port": "443"
+        },
+        {
+            "sollnetid": "2",
             "pcode": "P54321",
             "protocol": "UDP/TCP",
             "zone": "Zone 3",
-            "port": "443"
+            "port": "1443"
         }
     ]
 }
