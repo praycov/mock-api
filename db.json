@@ -9,10 +9,10 @@
     ],
     "gso": [
         {
-            "pcode": "P12345",
+            "pcode": "P54321",
             "Protocol": "UDP/TCP",
-            "ZONE": "Zone 1",
-            "Port": "8443"
+            "ZONE": "Zone 3",
+            "Port": "443"
         }
     ]
 }
