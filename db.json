@@ -35,8 +35,8 @@
         {
             "pcode": "P12345",
             "protocol": "UDP/TCP",
-            "zone": "Zone 2",
-            "port": "443"
+            "zone": "Zone 1",
+            "port": "8443"
         },
         {
             "pcode": "P54321",
