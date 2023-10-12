@@ -11,6 +11,24 @@
             "protocol": "UDP/TCP",
             "zone": "Zone 3",
             "port": "1443"
+        },
+        {
+            "pcode": "P33333",
+            "protocol": "UDP/TCP",
+            "zone": "Zone 1",
+            "port": "50000"
+        },
+        {
+            "pcode": "P44444",
+            "protocol": "UDP/TCP",
+            "zone": "Zone 5",
+            "port": "8081"
+        },
+        {
+            "pcode": "P55555",
+            "protocol": "UDP/TCP",
+            "zone": "Zone 4",
+            "port": "9090"
         }
     ],
     "gso": [
@@ -25,6 +43,24 @@
             "protocol": "UDP/TCP",
             "zone": "Zone 3",
             "port": "1443"
+        },
+        {
+            "pcode": "P33333",
+            "protocol": "UDP/TCP",
+            "zone": "Zone 2",
+            "port": "50000"
+        },
+        {
+            "pcode": "P44444",
+            "protocol": "UDP/TCP",
+            "zone": "Zone 5",
+            "port": "8082"
+        },
+        {
+            "pcode": "P55555",
+            "protocol": "UDP/TCP",
+            "zone": "Zone 3",
+            "port": "9092"
         }
     ]
 }
