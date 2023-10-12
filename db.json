@@ -1,6 +1,7 @@
 {
     "snow": [
         {
+            "sollnetid": "1",
             "pcode": "P12345",
             "Protocol": "UDP/TCP",
             "ZONE": "Zone 1",
@@ -9,6 +10,7 @@
     ],
     "gso": [
         {
+            "sollnetid": "1",
             "pcode": "P54321",
             "Protocol": "UDP/TCP",
             "ZONE": "Zone 3",
