@@ -5,7 +5,7 @@
             "pcode": "P12345",
             "protocol": "UDP/TCP",
             "zone": "Zone 1",
-            "Port": "8443"
+            "port": "8443"
         }
     ],
     "gso": [
@@ -14,7 +14,7 @@
             "pcode": "P54321",
             "protocol": "UDP/TCP",
             "zone": "Zone 3",
-            "Port": "443"
+            "port": "443"
         }
     ]
 }
