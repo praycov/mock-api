@@ -3,7 +3,7 @@
         {
             "sollnetid": "1",
             "pcode": "P12345",
-            "Protocol": "UDP/TCP",
+            "protocol": "UDP/TCP",
             "zone": "Zone 1",
             "Port": "8443"
         }
@@ -12,7 +12,7 @@
         {
             "sollnetid": "1",
             "pcode": "P54321",
-            "Protocol": "UDP/TCP",
+            "protocol": "UDP/TCP",
             "zone": "Zone 3",
             "Port": "443"
         }
