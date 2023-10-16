@@ -36,31 +36,36 @@
             "pcode": "P12345",
             "protocol": "UDP/TCP",
             "zone": "Zone 1",
-            "port": "8443"
+            "port": "8443",
+            "pnid": "bb11443b-3895-461b-bd2b-a8dc94773491"
         },
         {
             "pcode": "P54321",
             "protocol": "UDP/TCP",
             "zone": "Zone 3",
-            "port": "1443"
+            "port": "1443",
+            "pnid": "aa12d12v-7438-14jk-cm2b-12kjfnbqkfnb"
         },
         {
             "pcode": "P33333",
             "protocol": "UDP/TCP",
             "zone": "Zone 2",
-            "port": "50000"
+            "port": "50000",
+            "pnid": "asdlkj12-d12i-j120-irj3-2fj30ioj13f0"
         },
         {
             "pcode": "P44444",
             "protocol": "UDP/TCP",
             "zone": "Zone 5",
-            "port": "8082"
+            "port": "8082",
+            "pnid": "bf18y2b3-80bv-284t-b140-8tvb138tvb183"
         },
         {
             "pcode": "P55555",
             "protocol": "UDP/TCP",
             "zone": "Zone 3",
-            "port": "9092"
+            "port": "9092",
+            "pnid": "b1b8g10b-281b-v268-0v01-826vb018vb1286"
         }
     ]
 }
