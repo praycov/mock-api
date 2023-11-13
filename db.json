@@ -8,7 +8,7 @@
         },
         {
             "pcode": "P54321",
-            "protocol": "UDP/TCP",
+            "protocol": "TCP",
             "zone": "Zone 3",
             "port": "1443"
         },
@@ -41,14 +41,14 @@
         },
         {
             "pcode": "P12345",
-            "protocol": "UDP/TCP",
+            "protocol": "UDP",
             "zone": "Zone 2",
             "port": "8443",
             "pnid": "596wjqay-u930-c6pi-mzmw-m7j44bmenfha"
         },
         {
             "pcode": "P12345",
-            "protocol": "UDP/TCP",
+            "protocol": "UDP",
             "zone": "Zone 1",
             "port": "1443",
             "pnid": "3k93gvjp-0wh4-xu4n-2iln-vt813nqv0yyh"
@@ -83,7 +83,7 @@
         },
         {
             "pcode": "P33333",
-            "protocol": "UDP/TCP",
+            "protocol": "TCP",
             "zone": "Zone 2",
             "port": "50000",
             "pnid": "1caebjb3-7pzx-tsss-6zwr-nat3ieqr6he3"
