@@ -40,18 +40,60 @@
             "pnid": "bb11443b-3895-461b-bd2b-a8dc94773491"
         },
         {
+            "pcode": "P12345",
+            "protocol": "UDP/TCP",
+            "zone": "Zone 2",
+            "port": "8443",
+            "pnid": "596wjqay-u930-c6pi-mzmw-m7j44bmenfha"
+        },
+        {
+            "pcode": "P12345",
+            "protocol": "UDP/TCP",
+            "zone": "Zone 1",
+            "port": "1443",
+            "pnid": "3k93gvjp-0wh4-xu4n-2iln-vt813nqv0yyh"
+        },
+        {
             "pcode": "P54321",
             "protocol": "UDP/TCP",
             "zone": "Zone 3",
             "port": "1443",
+            "pnid": "uutr9x48-1l6w-f6wg-8unf-rbqix5z5b0s3"
+        },
+        {
+            "pcode": "P54321",
+            "protocol": "UDP/TCP",
+            "zone": "Zone 2",
+            "port": "1443",
             "pnid": "aa12d12v-7438-14jk-cm2b-12kjfnbqkfnb"
+        },
+        {
+            "pcode": "P54321",
+            "protocol": "UDP/TCP",
+            "zone": "Zone 3",
+            "port": "8443",
+            "pnid": "eak6ezaz-8re7-7s6p-aiyx-albjq3hpn6na"
         },
         {
             "pcode": "P33333",
             "protocol": "UDP/TCP",
             "zone": "Zone 2",
             "port": "50000",
-            "pnid": "asdlkj12-d12i-j120-irj3-2fj30ioj13f0"
+            "pnid": "berqr730-sdop-n8q8-9zao-cg1v8jskwjts"
+        },
+        {
+            "pcode": "P33333",
+            "protocol": "UDP/TCP",
+            "zone": "Zone 2",
+            "port": "50000",
+            "pnid": "1caebjb3-7pzx-tsss-6zwr-nat3ieqr6he3"
+        },
+        {
+            "pcode": "P33333",
+            "protocol": "UDP/TCP",
+            "zone": "Zone 4",
+            "port": "50000",
+            "pnid": "x5af8l0q-be83-ez5d-t97d-k7adabnpk6yz"
         },
         {
             "pcode": "P44444",
@@ -59,6 +101,13 @@
             "zone": "Zone 5",
             "port": "8082",
             "pnid": "bf18y2b3-80bv-284t-b140-8tvb138tvb183"
+        },
+        {
+            "pcode": "P44444",
+            "protocol": "UDP/TCP",
+            "zone": "Zone 1",
+            "port": "8082",
+            "pnid": "1lbll7fl-zj99-jv56-gig7-373sil62a1of"
         },
         {
             "pcode": "P55555",
