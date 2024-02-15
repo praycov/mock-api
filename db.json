@@ -1,69 +1,69 @@
 {
-    "diff": [
+    "delta": [
         {
-          "P12345": {
+            "PCode": "P12345",
             "PNIDs": [
-              {
-                "id": "3k93gvjp-0wh4-xu4n-2iln-vt813nqv0yyh",
-                "source_zone": "Zone 1",
-                "target_zone": "Zone 2",
-                "source_port": [
-                  8080,
-                  9090,
-                  8443
-                ],
-                "target_port": [
-                  8080,
-                  9092,
-                  8443
-                ],
-                "source_protocol": "TCP",
-                "target_protocol": "TCP",
-                "mismatches": [
-                  "zone",
-                  "port"
-                ]
-              },
-              {
-                "id": "1lbll7fl-zj99-jv56-gig7-373sil62a1of",
-                "source_zone": "Zone 1",
-                "target_zone": "Zone 1",
-                "source_port": [
-                  443
-                ],
-                "target_port": [
-                  8443
-                ],
-                "source_protocol": "TCP",
-                "target_protocol": "TCP",
-                "mismatches": [
-                  "port"
-                ]
-              }
+                {
+                    "id": "3k93gvjp-0wh4-xu4n-2iln-vt813nqv0yyh",
+                    "source_zone": "Zone 1",
+                    "target_zone": "Zone 2",
+                    "source_port": [
+                        8080,
+                        9090,
+                        8443
+                    ],
+                    "target_port": [
+                        8080,
+                        9092,
+                        8443
+                    ],
+                    "source_protocol": "TCP",
+                    "target_protocol": "TCP",
+                    "mismatches": [
+                        "zone",
+                        "port"
+                    ]
+                },
+                {
+                    "id": "1lbll7fl-zj99-jv56-gig7-373sil62a1of",
+                    "source_zone": "Zone 1",
+                    "target_zone": "Zone 1",
+                    "source_port": [
+                        443
+                    ],
+                    "target_port": [
+                        8443
+                    ],
+                    "source_protocol": "TCP",
+                    "target_protocol": "TCP",
+                    "mismatches": [
+                        "port"
+                    ]
+                }
             ]
-          },
-          "P54321": {
+        },
+        {
+            "PCode": "P54321",
             "PNIDs": [
-              {
-                "id": "bf18y2b3-80bv-284t-b140-8tvb138tvb183",
-                "source_zone": "Zone 2",
-                "target_zone": "Zone 2",
-                "source_port": [
-                  443,
-                  50000
-                ],
-                "target_port": [
-                  443,
-                  50000
-                ],
-                "source_protocol": "UDP",
-                "target_protocol": "TCP",
-                "mismatches": [
-                  "protocol"
-                ]
-              }
+                {
+                    "id": "bf18y2b3-80bv-284t-b140-8tvb138tvb183",
+                    "source_zone": "Zone 2",
+                    "target_zone": "Zone 2",
+                    "source_port": [
+                        443,
+                        50000
+                    ],
+                    "target_port": [
+                        443,
+                        50000
+                    ],
+                    "source_protocol": "UDP",
+                    "target_protocol": "TCP",
+                    "mismatches": [
+                        "protocol"
+                    ]
+                }
             ]
-          }
         }
     ]
 }
